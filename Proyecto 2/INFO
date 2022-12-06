@@ -1,5 +1,4 @@
 
-
 # Contenido <a id='back'></a>
 
 * [Introducción](#intro)
@@ -37,3 +36,6 @@ Prueba de hipótesis:
 - `debt` - ¿había alguna deuda en el pago de un préstamo?
 - `total_income` - ingreso mensual
 - `purpose` - el propósito de obtener un préstamo
+
+Libraries used:
+pandas
